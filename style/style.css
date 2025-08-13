@@ -20,6 +20,10 @@
     color: #FD6E0A;
 }
 
+.secondary-bg{
+   background-color: #fff8f3;
+}
+
 .special-btn{
     background-color: #FD6E0A;
     font-size: 20px;
@@ -100,4 +104,37 @@ nav{
     width: 584px;
     height: 676px;
 
+}
+.section title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+
+}
+
+.section{
+    
+}
+main{
+    display: flex;
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+ .section-description{
+    font-size: 18px;
+    color: #757575;
+}
+
+/* about styles */
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+.about-item{
+    display: flex;
+    justify-content: space-around;
+   
 }
